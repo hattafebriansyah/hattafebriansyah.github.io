@@ -354,6 +354,7 @@ img {
 
 .home__description {
   margin-bottom: var(--mb-2);
+  display: inline-block;
 }
 
 /* .home__scroll {
@@ -403,6 +404,7 @@ img {
 }
 
 .about__description {
+  display: inline-block;
   text-align: center;
   line-height: 1.5;
   margin-bottom: var(--mb-2-5);
@@ -577,6 +579,7 @@ img {
 }
 
 .qualification__title {
+  display: inline-block;
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-0-25);
@@ -589,6 +592,7 @@ img {
 }
 
 .qualification__calendar {
+  display: inline-block;
   font-size: var(--smaller-font-size);
   color: var(--text-color-light);
 }
@@ -725,6 +729,7 @@ img {
 }
 
 .contact__label {
+  display: inline-block;
   font-size: var(--smaller-font-size);
   color: var(--title-color);
 }
@@ -755,6 +760,8 @@ img {
 }
 
 .footer__subtitle {
+  display: inline-block;
+
   font-size: var(--small-font-size);
 }
 
