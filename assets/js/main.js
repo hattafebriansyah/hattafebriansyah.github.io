@@ -188,7 +188,7 @@ function alertDetailPortofolio(){
 
 /*==================== TYPING IN INTRO ====================*/ 
 
-const typeString = ['Frontend Developer', ' Web Designer'];
+const typeString = ['Frontend Developer', 'UX Engineer',' Web Designer', ];
       var  i = 0;
       var count = 0
       var selectedText = '';
